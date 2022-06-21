@@ -9,3 +9,4 @@ Git is software for tracking changes in any set of files, usually used for coord
 * I Understand advanced Git concepts like rebase, rewriting history, rolling back changes with revert, reset, squash merge and cherry picking.
 
 ## How to use this project
+The project consists of two files, namely a cheat sheet and a knowledge document. You can download both of these and use them as you wish.
